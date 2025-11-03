@@ -38,9 +38,9 @@ nav a:hover {
 }
 
 .logo {
-    background-color: #5b36f0;
-    padding: 0.6rem 1.2rem;
-    border-radius: 8px;
+  background-color: #5b36f0;
+  padding: 0.6rem 1.2rem;
+  border-radius: 8px;
 }
 
 .logo a {
@@ -180,13 +180,13 @@ nav a:hover {
   background-color: #fff;
   color: #212124;
   font-weight: 600;
-  font-size: 1rem;
+  font-size: 0.7rem;
   display: flex;
   align-items: center;
   gap: 0.5rem;
   border-radius: 50px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
-  padding: 0.5rem 1rem;
+  padding: 0.7rem 1rem;
   cursor: pointer;
   transition: all 0.3s ease;
   white-space: nowrap;
@@ -194,6 +194,7 @@ nav a:hover {
 
 .float-btn i {
   font-size: 1.1rem;
+  color: #5b36f0;
 }
 
 .float-btn:hover {
