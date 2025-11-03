@@ -8,31 +8,30 @@ This project is a static front-end replica inspired by the Eventix demo design. 
 
 ## Preview
 
-![Preview](preview.jpeg)
+![Preview](/LANDING%20PAGE/assets/preview.jpeg)
 
 ---
 
 ## Features
 
-- Clean and responsive design layout  
-- Sticky navigation bar with dropdown-ready menu items  
-- Side-by-side hero section (text + image)  
-- Floating feature buttons beside the main image  
-- Consistent font and color scheme based on the Eventix theme  
-- Google Fonts integration (Poppins)  
-- Reusable CSS variables for color and typography management  
+- Clean and responsive design layout
+- Sticky navigation bar with dropdown-ready menu items
+- Side-by-side hero section (text + image)
+- Floating feature buttons beside the main image
+- Consistent font and color scheme based on the Eventix theme
+- Google Fonts integration (Poppins)
+- Reusable CSS variables for color and typography management
 
 ---
 
 ## Technologies Used
 
-- **HTML5** – Page structure and content layout  
-- **CSS3** – Custom styling and responsive design  
-- **Bootstrap Icons** – For vector-based, lightweight icons  
-- **Google Fonts** – Poppins font family for modern and clean typography  
+- **HTML5** – Page structure and content layout
+- **CSS3** – Custom styling and responsive design
+- **Bootstrap Icons** – For vector-based, lightweight icons
+- **Google Fonts** – Poppins font family for modern and clean typography
 
 ---
-
 
 ## Design Reference
 
@@ -45,7 +44,7 @@ This project was created purely for **learning and design practice purposes**.
 
 **Samuel Njihia**  
 Front-End Developer & Designer  
-Kenya  
+Kenya
 
 ---
 
